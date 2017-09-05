@@ -1,0 +1,1250 @@
+[
+    {
+        "Animal": "Alpine Ibex",
+        "Info": {
+            "Habitats": "Val-des-Bois",
+            "Attractants": "There are no attractants.",
+            "Score": "276.159 -> 287.008",
+            "StartLoc": [
+                "Chalet du Mont-Bleu in Val-des-Bois. Walk North",
+                "Maison du Neant in Val-des-Bois. walk East"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "https://vignette4.wikia.nocookie.net/thehuntergame/images/f/fa/Vdb_ibex_hunting.png/revision/latest/scale-to-width-down/540?cb=20160305095031"
+            ]
+        }
+    },
+    {
+        "Animal": "American Black Duck",
+        "Info": {
+            "Habitats": "Rougarou Bayou",
+            "Attractants": "Mallard Long Range, Mallard Short Range, Mallard Decoy, American Duck Decoy",
+            "Score": "1554.058 -> 1599.685",
+            "StartLoc": [
+                "Spread over Rougarou Bayou. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Artic Fox",
+        "Info": {
+            "Habitats": "Witerime Ridge",
+            "Attractants": "Predator 'Jackrabbit' Caller",
+            "Score": "16.361 -> 17.624",
+            "StartLoc": [
+                "Danforth's Lodge in Witerim Ridge. Walk any direction."
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".243     ",
+                ".223     ",
+                ".17      ",
+                ".357     ",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Bighorn Sheep",
+        "Info": {
+            "Habitats": "Timergold Trails",
+            "Attractants": "There are no attractants.",
+            "Score": "187.325 -> 191.379",
+            "StartLoc": [
+                "N/A"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Bison",
+        "Info": {
+            "Habitats": "Witerim Ridge",
+            "Attractants": "There are no attractants.",
+            "Score": "124.908 -> 128.257",
+            "StartLoc": [
+                "Afterland Lodge in Whiterime Ridge. Walk any direction"
+            ],
+            "Ammo": [
+                "Compound",
+                "Recurve ",
+                "Crossbow",
+                ".50 Con.",
+                ".45-70  ",
+                ".340    ",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".454    "
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Black Bear",
+        "Info": {
+            "Habitats": "Settler Creeks, Redfeather Falls, Rougarou Bayou",
+            "Attractants": "Bear Bait",
+            "Score": "23.544 -> 23.937",
+            "StartLoc": [
+                "Trapper's Rest in Redfeather Falls. Walk North",
+                "Whipsering Woods in Rougarou Bayou. Walk Southeast"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Blacktail Deer",
+        "Info": {
+            "Habitats": "Whitehard Island, Redfeather Falls",
+            "Attractants": "Whitetail Deer Urine Spray, Deer 'Bleat' Call, Deer 'Grunt' Call",
+            "Score": "194.922 -> 196.534",
+            "StartLoc": [
+                "Causeway in Whitehard Island. Walk West"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug ",
+                "10ga Buck ",
+                "12ga Buck ",
+                "16ga Buck "
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Brown Bear",
+        "Info": {
+            "Habitats": "Hemmeldal, Val-des-Bois",
+            "Attractants": "Bear Bait",
+            "Score": "28.504 -> 28.898",
+            "StartLoc": [
+                "Koppartorp in Hemmeldal. Walk West",
+                "Drangstorp in Hemmeldal. Walk West",
+                "Chalet du Mont-Bleu in Val-des-Bois. Walk East"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".50 Con.",
+                ".45-70  ",
+                ".340    ",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Canada Goose",
+        "Info": {
+            "Habitats": "Hirschfelden",
+            "Attractants": "Canada Goose Decoy, Goose Long Range Caller, Goose Short Range Caller, Canada Goose Flag Lure",
+            "Score": "8905.112 -> 8999.233",
+            "StartLoc": [
+                "Spread over Hirschfelden. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".357     ",
+                ".22      ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Cottontail Rabbit",
+        "Info": {
+            "Habitats": "Logger's Point, Settler Creeks",
+            "Attractants": "There are no attractants.",
+            "Score": "1933.000 -> 1998.000",
+            "StartLoc": [
+                "Field Lodge in Logger's Point. Walk North-East",
+                "Highland in Settler Creeks. Walk North-East",
+                "Homestead in Settler Creeks. Walk South-West, South or East"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Coyote",
+        "Info": {
+            "Habitats": "Whitehard Island, Logger's Point",
+            "Attractants": "Predator 'Jackrabbit' Caller",
+            "Score": "58.125 -> 59.520 ",
+            "StartLoc": [
+                "Southcliff in Whitehard Island. Walk North",
+                "Field Lodge in Logger's Point. Walk East"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".223     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug ",
+                "12ga Slug ",
+                "10ga Buck ",
+                "12ga Buck ",
+                "16ga Buck "
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Dall Sheep",
+        "Info": {
+            "Habitats": "Whiterime Ridge",
+            "Attractants": "There are no attractants.",
+            "Score": "203.858 -> 207.915", 
+            "StartLoc": [
+                "Spread over Whiterime Ridge. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug ",
+                "10ga Buck ",
+                "12ga Buck ",
+                "16ga Buck "
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "European Rabbit",
+        "Info": {
+            "Habitats": "Val-des-Bois, Bushrangers Run",
+            "Attractants": "There are no attractants.",
+            "Score": "2441.000 -> 2499.000",
+            "StartLoc": [
+                "Chalet du Mont-Bleu in Val-des-Bois. Walk North",
+                "Copper Hill in Bushrangers Run. Walk South, West or North"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Feral Goat",
+        "Info": {
+            "Habitats": "Bushrangers Run",
+            "Attractants": "Mineral Lick Bait Sites",
+            "Score": "351.900 -> 302.827", 
+            "StartLoc": [
+                "Spread over Bushrangers Run. No specific area"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".45 Sab.",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308    ",
+                ".30-06  ",
+                "7.62x54 ",
+                "6.5x55  ",
+                ".30-30  ",
+                ".270    ",
+                ".243    ",
+                ".223    ",
+                ".44     ",
+                "10mm    ",
+                ".357    ",
+                "10ga Slug",
+                "12ga Slug",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Feral Hog",
+        "Info": {
+            "Habitats": "Logger's Point, Settler Creek, Rougarou Bayou, Bushrangers Run",
+            "Attractants": "Hog Scent Spray, Hog 'Squeal' caller, Hog Feeder",
+            "Score": "1177.000 -> 1206.837", 
+            "StartLoc": [
+                "Border Lodge in Logger's Point. Walk West",
+                "Highland in Settler Creeks. Walk North",
+                "L'ile du Canard Noir in Rougarou Bayou. Walk South or South-West",
+                "Walkabout Creek in Bushrangers Run. Walk South, East or North"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".50 Con.",
+                ".45-70  ",
+                ".340    ",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308    ",
+                ".30-06  ",
+                "7.62x54 ",
+                "6.5x55  ",
+                ".30-30  ",
+                ".270    ",
+                ".454    ",
+                ".45     ",
+                ".44     ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Gadwall",
+        "Info": {
+            "Habitats": "Rougarou Bayou",
+            "Attractants": "Mallard Long/Short Range, Gadwall Long/Short Range",
+            "Score": "1350.926 -> 1398.978", 
+            "StartLoc": [
+                "Spread over Rougarou Bayou. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Grey Wolf",
+        "Info": {
+            "Habitats": "Timbergold Trails",
+            "Attractants": "Wolf 'Elk Calf' Caller, Elk Carcasses",
+            "Score": "16.772 -> 16.890", 
+            "StartLoc": [
+                "Spread over Timbergold Trails. No specific area"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".45 Sab.",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308    ",
+                ".30-06  ",
+                "7.62x54 ",
+                "6.5x55  ",
+                ".30-30  ",
+                ".270    ",
+                ".243    ",
+                ".223    ",
+                ".44     ",
+                "10mm    ",
+                ".357    ",
+                "10ga Slug",
+                "12ga Slug",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "https://vignette4.wikia.nocookie.net/thehuntergame/images/2/20/Tt_carcass_locations.jpg/revision/latest/scale-to-width-down/700?cb=20170221133101"
+            ]
+        }
+    },
+    {
+        "Animal": "Grizzly Bear",
+        "Info": {
+            "Habitats": "Timbergold Trails",
+            "Attractants": "There are no attractants.",
+            "Score": "26.851 -> 27.441", 
+            "StartLoc": [
+                "Spread over Timbergold Trails. No specific area"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".50 Con.",
+                ".45-70  ",
+                ".340    ",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308     ",
+                ".30-06   ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Mallard Duck",
+        "Info": {
+            "Habitats": "Rougarou Bayou",
+            "Attractants": "Mallard Long/Short range caller",
+            "Score": "1581.219 -> 1599.842",
+            "StartLoc": [
+                "Spread over Rougarou Bayou. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Moose",
+        "Info": {
+            "Habitats": "Redfeather Falls, Hemmeldal, Whiterime Ridge",
+            "Attractants": "Moose Scent, Moose Caller",
+            "Score": "229.284 -> 242.298",
+            "StartLoc": [
+                "Trapper's Rest in Redfeather Falls. Walk North-West or East",
+                "Koppartorp in Hemmeldal. Walk West or East",
+                "Afterland Lodge in Whiterime Ridge. Walk North"
+            ],
+            "Ammo": [
+                "Arrows  ",
+                ".50 Ball",
+                ".50 Con.",
+                ".45-70  ",
+                ".340    ",
+                ".300    ",
+                "9.3x62  ",
+                "7mm     ",
+                "8x57 IS ",
+                ".303    ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Mule Deer",
+        "Info": {
+            "Habitats": "Logger's Point, Timbergold Trails",
+            "Attractants": "Muel Deer Urine Spray, Deer 'Bleat' Caller, Deer 'Grunt' Caller",
+            "Score": "238.230 -> 245.116",
+            "StartLoc": [
+                "Border Lodge in Logger's Point. Walk West",
+                "Field Lodge in Logger's Point. Walk North"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug ",
+                "10ga Buck ",
+                "12ga Buck ",
+                "16ga Buck "
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Northern Pintail",
+        "Info": {
+            "Habitats": "Rougarou Bayou",
+            "Attractants": "Northern Pintail Long/Short range Caller, Mallard Short Range Caller",
+            "Score": "1355.536 -> 1399.611",
+            "StartLoc": [
+                "Spread over Rougarou Bayou. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Pheasant",
+        "Info": {
+            "Habitats": "Logger's Point, Hirchfelden",
+            "Attractants": "Pheasant Caller (Only locating)",
+            "Score": "28.871 -> 29.512",
+            "StartLoc": [
+                "Field Lodge in Logger's Point. Walk East",
+                "Mullerwaldhutte in Hirschfelden. Walk West"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Polar Bear",
+        "Info": {
+            "Habitats": "Whiterime Ridge",
+            "Attractants": "There are no attractants.",
+            "Score": "30.315 -> 31.024",
+            "StartLoc": [
+                "Danforth's Refuge in Whiterime Ridge. Walk North-East"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".308     ",
+                ".30-06   ",
+                ".454     ",
+                ".45      ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Red Deer",
+        "Info": {
+            "Habitats": "Hirschfelden, Val-des-Bois",
+            "Attractants": "Red Deer Caller, Red Deer Scent Spray",
+            "Score": "276.588 -> 282.565", 
+            "StartLoc": [
+                "Ritterstein in Hirschfelden. Walk West or South",
+                "Maison du Néant in Val-des-Bois. Walk North"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".454     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Red Fox",
+        "Info": {
+            "Habitats": "Hirschfelden, Hemmeldal, Val-des-Bois, Bushrangers Run",
+            "Attractants": "Predator 'Jackrabbit' Caller",
+            "Score": "31.903 -> 33.929",
+            "StartLoc": [
+                "Rittersteinhütte in Hirschfelden. Walk Southwest",
+                "Kopparstorp in Hemmeldal. Walk Southwest",
+                "Drängstorp in Hemmeldal. Walk North",
+                "Maison du Néant in Val-des-Bois. Walk Northeast",
+                "Copper Hills in Bushrangers Run. Walk East"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".243     ",
+                ".223     ",
+                ".17      ",
+                ".357     ",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Red Kangaroo",
+        "Info": {
+            "Habitats": "Bushrangers Run",
+            "Attractants": "There are no attractants.",
+            "Score": "89.024 -> 90.959",
+            "StartLoc": [
+                "Walkabout Creek in Bushrangers Run South.  east or north"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".223     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug", 
+                "12ga Slug", 
+                "10ga Buck", 
+                "12ga Buck", 
+                "16ga Buck" 
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Reindeer",
+        "Info": {
+            "Habitats": "Hemmeldal",
+            "Attractants": "Reindeer Rattle",
+            "Score": "602.165 -> 705.126",
+            "StartLoc": [
+                "Koppartorp in Hemmeldal. Walk West or South"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Rock Ptarmigan",
+        "Info": {
+            "Habitats": "Val-des-Bois",
+            "Attractants": "There are no attractants.",
+            "Score": "616.000 -> 639.000",
+            "StartLoc": [
+                "Spread over Val-des-Bois. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Rocky Mountain Elk",
+        "Info": {
+            "Habitats": "Timbergold Trails",
+            "Attractants": "Elk 'Bugle' Caller, Wolf 'Elk Calf' Caller",
+            "Score": "416.647 -> 441.653",
+            "StartLoc": [
+                "Spread over Timbergold Trails. No specific area"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Roe Deer",
+        "Info": {
+            "Habitats": "Hirschfelden, Hemmeldal, Val-des-Bois",
+            "Attractants": "Roe Deer Urine Spray, Roe Deer Caller",
+            "Score": "250.080 -> 261.732",
+            "StartLoc": [
+                "Mullerwaldhutte in Hirschfelden. Walk North-West",
+                "Drangstorp in Hemmeldal. Walk West",
+                "Chalet du Mont-Bleu in Val-des-Bois. Walk East"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Roosevelt Elk",
+        "Info": {
+            "Habitats": "Whitehart Island, Settler Creeks, Redfeather Falls",
+            "Attractants":"Elk 'Bugle' Caller, Wolf 'Elk Calf' Caller, Roosevelt Elk Urine Spray",
+            "Score": "396.183 -> 429.296", 
+            "StartLoc": [
+                "Southcliff in Whitehart Island. Walk North",
+                "Highland in Settler Creeks. Walk South-West or South-East",
+                "Darkwood in Redfeather Falls. Walk North-East"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                ".454     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"
+            ],
+            "Maps": [
+                "https://vignette2.wikia.nocookie.net/thehuntergame/images/a/a0/RFF_elk_route.png"
+            ]
+        }
+    },
+    {
+        "Animal": "Sitka Deer",
+        "Info": {
+            "Habitats": "Whiterime Ridge",
+            "Attractants": "Deer 'Bleat' Caller, Deer 'Grunt' Caller",
+            "Score": "111.104 -> 113.463",
+            "StartLoc": [
+                "Afterland Lodge in Whiterime Ridge. Walk any direction"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".45 Sab. ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".243     ",
+                ".44      ",
+                "10mm     ",
+                ".357     ",
+                "10ga Slug",
+                "12ga Slug", 
+                "10ga Buck", 
+                "12ga Buck", 
+                "16ga Buck"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Snowshoe Hare", 
+        "Info": {
+            "Habitats": "Whiterime Ridge",
+            "Attractants": "There are no attractants.",
+            "Score": "1913.000 -> 1997.000",
+            "StartLoc": [
+                "Danforth's Lodge in Whiterime Ridge. Walk South or east"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Turkey",
+        "Info": {
+            "Habitats": "Whitehart Island, Settler Creeks",
+            "Attractants": "Turkey Decoys, Turkey Box Caller, Turkey Locator Caller",
+            "Score": "68.901 -> 70.786", 
+            "StartLoc": [
+                "Causeway in Whitehart Island. Walk South",
+                "Highland in Settler Creeks. Walk North",
+                "Homestead in Settler Creeks. Walk West, South-West or South"
+            ],
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".223     ",
+                ".357     ",
+                ".22      ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ]
+        }
+    },
+    {
+        "Animal": "Whitetail Deer",
+        "Info": {
+            "Habitats": "Whitehart Island, Settler Creeks, Redfeather Falls, Rougarou Bayou, Logger's Point",
+            "Attractants": "Whitetail Urine Spray, Deer 'Bleat' Call, Deer 'Grunt' Call",
+            "Score": "195.042 -> 208.112", 
+            "StartLoc": [
+                "Southcliff in Whitehart Island. Walk North",
+                "Highland in Settler Creeks. Walk East",
+                "Homestead in Settler Creeks. Walk West",
+                "Trapper's Rest in Redfeather Falls. Walk North-West",
+                "Darkwood in Redfeather Falls. Walk South",
+                "Whispering Woods in Rougarou Bayou. Walk South-West"
+            ],
+            "Ammo": [
+                "Arrows   ", 
+                ".50 Ball ", 
+                ".45 Sab. ", 
+                ".300     ", 
+                "9.3x62   ", 
+                "7mm      ", 
+                "8x57 IS  ", 
+                ".303     ", 
+                ".308     ", 
+                ".30-06   ", 
+                "7.62x54  ", 
+                "6.5x55   ", 
+                ".30-30   ", 
+                ".270     ", 
+                ".243     ", 
+                ".44      ", 
+                "10mm     ", 
+                ".357     ", 
+                "10ga Slug",
+                "12ga Slug",
+                "10ga Buck",
+                "12ga Buck",
+                "16ga Buck"
+            ],
+            "Maps": [
+
+            ]
+        }
+    },
+    {
+        "Animal": "White-tailed Ptarmigan",
+        "Info": {
+            "Habitats": "Timbergold Trails",
+            "Attractants": "There are no attractants.",
+            "Score": "452.000 -> 478.000",
+            "StartLoc": [
+                "Spread over Timbergold Trails. No specific area"
+            ], 
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    },
+    {
+        "Animal": "Wild Boar",
+        "Info": {
+            "Habitats": "Hirschfelden",
+            "Attractants": "Hog Scent Spray, Hog 'Squeal' caller, Hog Feeder",
+            "Score": "1223.074 -> 1273.043",
+            "StartLoc": [
+                "Ritterstein in Hirschfelden. Walk North",
+                "Mullerwaldhutte in Hirschfelden. Walk West"
+            ], 
+            "Ammo": [
+                "Arrows   ",
+                ".50 Ball ",
+                ".50 Con. ",
+                ".45-70   ",
+                ".340     ",
+                ".300     ",
+                "9.3x62   ",
+                "7mm      ",
+                "8x57 IS  ",
+                ".303     ",
+                ".308     ",
+                ".30-06   ",
+                "7.62x54  ",
+                "6.5x55   ",
+                ".30-30   ",
+                ".270     ",
+                ".454     ",
+                ".45      ",
+                ".44      ",
+                "10mm     ",
+                "10ga Slug",
+                "12ga Slug"  
+            ]
+        }
+    },
+    {
+        "Animal": "Willow Ptarmigan",
+        "Info": {
+            "Habitats": "Hemmeldal",
+            "Attractants": "There are no attractants.",
+            "Score": "743.000 -> 808.000",
+            "StartLoc": [
+                "Spread over Hemmeldal. No specific area."
+            ], 
+            "Ammo": [
+                "Arrows   ",
+                ".22      ",
+                ".22 Air  ",
+                ".17      ",
+                "10ga Bird",
+                "12ga Bird",
+                "16ga Bird",
+                "20ga Bird"
+            ],
+            "Maps": [
+                "No Maps"
+            ]
+        }
+    }
+]
